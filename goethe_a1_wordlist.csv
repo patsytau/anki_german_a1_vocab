@@ -1,4 +1,4 @@
-die Ansage, -n#Hören Sie die Ansagen.#announcement#Listen to the announcements.# 
+die Ansage, -n#Hören Sie die Ansagen.#announcement#Listen to the announcements.#
 der Anschluss#In Mannheim haben Sie Anschluss nach Saarbrücken.#connection#In Mannheim you have a connection to Saarbrücken.#
 der Anschluss#Ist das die Anmeldung für einen Telefonanschluss?#connection#Is that the application for a telephone connection?#
 an sein#Heute Nacht war das Licht an.#to be (switched) on#The light was on tonight.#
@@ -8,7 +8,7 @@ die Anzeige, -n#Ich habe Ihre Anzeige in der Zeitung gelesen.#advert#I read your
 (sich) anziehen#Ich muss mich noch anziehen.#to get dressed#I still need to get dressed.#
 das Apartment, -s#Wir haben ein Apartment gemietet.#apartment#We rented an apartment.#
 der Apfel, -Ä#Ein Pfund Äpfel bitte.#apple#One pound of apples, please.#
-der Appetit#Guten Appetit!#appetite??#Bon appetit!#
+der Appetit#Guten Appetit!#…#Bon appetit!#
 arbeiten#Wo arbeiten Sie?#to work#Where do you work?#
 die Arbeit, -en#Mein Bruder sucht Arbeit.#work#My brother is looking for work.#
 arbeitslos#Es gibt bei uns viele Leute, die schon lange arbeitslos sind.#unemployed#We have a lot of people who have been unemployed for a long time.#
@@ -17,7 +17,7 @@ der Arm, -e#Mein Arm tut weh.#arm#My arm hurts.#
 der Arzt, -Ä, e#Morgen habe ich einen Termin bei meiner Ärztin.#doctor#Tomorrow I have an appointment with my doctor.#
 auch#Ich bin auch Spanier.#also#I am also Spanish.#
 auf#Die Kinder spielen auf der Straße.#on#The children play on the street.#
-auf#Auf Wiedersehen.#until#goodbye (in person)#
+auf#Auf Wiedersehen.#until#goodbye (in person)#lit. “until we see each other again”
 auf#Wie heißt das auf Deutsch?#in#What’s that called in German?#
 die Aufgabe, -n#Das ist eine schwere Aufgabe.#task#That is a difficult task.#
 aufhören#Der Kurs hört in einer Woche auf.#to end#The course ends in a week.#
@@ -42,7 +42,8 @@ aus sein#Das Licht ist aus.#to be (switched) off#The light is off.#
 aus sein#Die Schule ist aus.#to be out#School is out.#
 aussteigen#Wo muss ich aussteigen?#to alight#Where do I need to alight?#
 der Ausweis#Hier ist mein Ausweis.#identity card#Here is my identity card.#
-(sich) ausziehen#Zieh die Schuhe aus, bitte!#to take off#Please take off your shoes!#
+ausziehen#Zieh die Schuhe aus, bitte!#to take off#Please take off your shoes!#
+sich ausziehen#Ich ziehe mich aus.#to get undressed#I get undressed.#
 das Auto, -s#Er kommt mit dem Auto.#car#He’s coming by car.#
 die Autobahn, -en#Wo geht‘s hier bitte zur Autobahn?#motorway#How do I get to the motorway?#
 der Automat#Die Fahrkarten gibt es nur am Automaten.#machine#Tickets are only available from the machines.#
@@ -67,8 +68,8 @@ der Beamte, -n#Fragen Sie die Beamtin an Schalter acht!#official#Ask the officia
 bedeuten#Was bedeutet das Wort?#to mean#What does that word mean?#
 beginnen#Das Spiel beginnt um 15.30 Uhr.#to begin#The game begins at 3:30 pm.#
 bei#Offenbach liegt bei Frankfurt.#next to#Offenbach is next to Frankfurt.#
-bei#Ich wohne bei meinen Eltern.#with#I live with my parents.#
-bei#Bei uns regnet es heute.#at???#It is raining here today.#
+bei#Ich wohne bei meinen Eltern.#with#I live at my parents’ place.#
+bei uns#Bei uns regnet es heute.#here / where we are#It is raining here today.#bei uns = set phrase
 bei#Er arbeitet bei der Polizei.#for#He works for the police.#
 beide#Beide Eltern arbeiten.#both#Both parents work.#
 beide#Wir kommen beide.#both#We are both coming.#
@@ -78,7 +79,7 @@ zum Beispiel/z. B.#Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten
 bekannt#Picasso ist sehr bekannt.#well known#Picasso is very well known.#
 der/die Bekannte, -n#Ein Bekannter von mir heißt Klaus.#acquaintance#An acquaintance of mine is called Klaus.#
 bekommen#Haben Sie meinen Brief bekommen?#to receive#Did you receive my letter?#
-bekommen#Was bekommen Sie?#to have#What will you have?#
+bekommen#Was bekommen Sie?#to have#What will you have?#for food and drink
 bekommen#Dieses Medikament bekommen Sie in der Apotheke.#to get#You can get this medicine in a pharmacy.#
 benutzen#Die Aufzüge bitte nicht benutzen!#to use#Please don’t use the lifts!#
 der Beruf, -e#Was sind Sie von Beruf?#profession#What is your profession?#
@@ -151,6 +152,7 @@ dein-#Ist das dein Auto?#your#Is that your car?#
 dein-#Ist das deins?#yourself#Is that yours?#
 denn#Ich kann nicht kommen, denn ich bin krank.#because#I can’t come because I’m ill.#
 das#Ich nehme das da.#that#I’ll take that there.#
+das#Ich mag das Buch.#the#I like the book.#
 der#Hier ist der Brief, den du suchst.#the#Here is the letter that you’re looking for.#
 die#Die Fahrkarte bekommst du am Bahnhof.#the#You will get the ticket at the train station.#
 dich#Die Blumen sind für dich.#you#The flowers are for you.#
@@ -160,9 +162,10 @@ die Disco#Heute abend gehen wir in die Disco tanzen.#disco#This evening we’re 
 der Doktor#Meine Tochter ist krank. Wir gehen zum Doktor.#doctor#My daughter is sick. We are going to the doctor.#
 das Doppelzimmer#Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?#double room#Would you like a double room or a single room?#
 das Dorf, -ö, er#Meine Familie lebt in einem Dorf.#village#My family lives in a village.#
-dorthin#Deine Tasche kannst du dorthin stellen.#there#You can put your bag there.#
-dorther#Dort ist unser Haus.#(over) there#There’s our house.#
-draußen#Wollen wir draußen sitzen?#outside#Shall we sit outside?#
+dort#Dort ist mein Zimmer.#there#There's my room.#
+dorthin#Deine Tasche kannst du dorthin stellen.#there (to that place, in that direction)#You can put your bag there.#
+dorther#Er kommt gerade dorther.#from there#He's just coming from there.#
+draußen#Wollen wir draußen sitzen?#outside#Shall we sit outside?#lit. “do we want to…”
 drucken#Bitte drucke das Formular für mich.#to print#Please print the form for me.#
 der Drucker, –#Mein Drucker ist kaputt.#printer#My printer is broken.#
 drücken#Drück hier, dann geht der Computer an.#to press#Press here, then the computer turns on.#
@@ -178,7 +181,7 @@ die Ecke, -n#An der nächsten Ecke links.#corner#Left at the next corner.#
 die Ehefrau, -en/#Das ist meine (Ehe-) Frau.#wife#That is my wife.#
 der Ehemann, ä, er#Das ist mein (Ehe-) Mann.#husband#That is my husband.#
 das Ei, -er#Möchtest du ein Ei zum Frühstück?#egg#Would you like an egg for breakfast?#
-eilig#Hast du es eilig?#to rush???#Are you in a hurry?#
+eilig#Hast du es eilig?#…#Are you in a hurry?#es eilig haben = to be in a rush/hurry
 ein-#Ich nehme ein Bier. Willst du auch eins?#one / a#I’ll have a beer. Do you want one, too?#
 ein-#Ist hier einer, der das kann?#someone#Is there someone here who can do that?#
 einfach#Die Prüfung ist ganz einfach.#simple#The test is very simple.#
@@ -188,7 +191,8 @@ der Eingang#Der Eingang ist um die Ecke.#entrance#The entrance is round the corn
 einkaufen#Ich muss noch für morgen einkaufen.#to go shopping#I still need to go shopping for tomorrow.#
 einladen#Darf ich Sie zu einem Kaffee einladen?#to invite / treat#May I treat you to a coffee?#
 die Einladung#Danke für die Einladung!#invitation#Thank you for the invitation!#
-einmal#Diese Prüfung mache ich nicht noch einmal.#once???#I will not take this exam again.#
+noch einmal#Diese Prüfung mache ich nicht noch einmal.#again#I will not take this exam again.#
+einmal#Sie dürfen diese Prüfung nur einmal machen.#once#You may only take this exam once.#
 einsteigen#Schnell, steig ein, der Zug fährt gleich.#to get on (board)#Quick, get on, the train is about to leave!#
 der Eintritt#Der Preis für den Eintritt ist 5 Euro.#entry#The price for entry is 5 euros.#
 das Einzelzimmer#Haben Sie noch ein Einzelzimmer?#single room#Do you have another single room?#
@@ -200,7 +204,7 @@ enden#Die Straße endet hier.#to end#The street ends here.#
 das Ende#Sie wohnt am Ende der Straße.#end#She lives at the end of the street.#
 das Ende#Er bekommt sein Geld am Ende des Monats.#end#He gets his money at the end of the month.#
 entschuldigen#Entschuldigen Sie bitte!#to excuse#Excuse me, please!#
-die Entschuldigung#Entschuldigung! / Bitte.#apology??#Excuse me! / Sure.#
+die Entschuldigung#Entschuldigung! / Bitte.#…#Excuse me! / Sure.#
 er#Er heißt Ali.#he#He’s called Ali.#
 das Ergebnis, -se#Das Ergebnis des Tests bekommen Sie in zwei Wochen.#result#You will receive the test results in two weeks.#
 erklären#Kannst du mir das erklären?#to explain#Can you explain that to me?#
@@ -221,15 +225,15 @@ der Familienname#Meine Familiennamen sind García González.#surname#My surname 
 der Familienstand#Bei „Familienstand“ musst du „ledig“ ankreuzen.#family/marital status#Under “family status” you have to tick “single”.#
 die Farbe, -n#Die Farbe gefällt mir gut.#colour#I like the colour.#
 das Fax, -e#Schicken Sie uns einfach ein Fax!#fax#Just send us a fax!#
-der Feierabend#Wir machen jetzt Feierabend.#end of work??#We are calling it a day now. / We are finishing work for the day now.#
+der Feierabend#Wir machen jetzt Feierabend.#…#We are calling it a day now. / We are finishing work for the day now.#Feierabend machen = set phrase for the end of work/home time
 der Feiertag#Am Montag ist Feiertag.#bank holiday#Monday is a bank holiday.#
 feiern#Wir feiern heute meinen Geburtstag.#to celebrate#Today we are celebrating my birthday.#
 fehlen#Herr Müller ist nicht da, er fehlt schon seit drei Tagen.#to be absent#Mr Müller is not here, he’s been absent for three days.#
 fehlen#Was fehlt Ihnen?#to be missing#What are you missing?#
 der Fehler, –#Diesen Fehler mache ich immer.#mistake#I always make this mistake.#
-fernsehen#Wollen wir heute Abend mal fernsehen?#to watch TV#Shall we watch TV this evening?#
-fertig#Bist du fertig?#finished / done#Are you done?#
-fertig#Ist mein Auto schon fertig?#finished / done#Is my car already finished?#
+fernsehen#Wollen wir heute Abend mal fernsehen?#to watch TV#Shall we watch TV this evening?#lit. “do we want to…”
+fertig#Bist du fertig?#finished / ready / done#Are you done?#
+fertig#Ist mein Auto schon fertig?#finished / ready / done#Is my car already finished?#
 das Feuer#Haben Sie Feuer?#fire / lighter#Do you have a light?#
 das Fieber#Mein Mann hat noch immer Fieber.#fever#My husband still has a fever.#
 der Film, -e#Ich möchte gern diesen Film sehen.#film#I would like to see this film.#
@@ -255,7 +259,7 @@ die Freizeit#In meiner Freizeit spiele ich oft Fußball.#free time#I often play 
 fremd#Das weiß ich nicht, ich bin fremd hier.#foreign#I don’t know, I’m not from here.#
 (sich) freuen#Ich freue mich auf den Urlaub.#to look forward#I’m looking forward to the holiday.#
 der Freund, -e#Das ist ein Freund von mir.#friend#That is a friend of mine.#
-die Freundin#Das ist meine Freundin.#friend / girlfriend#That is my friend/girlfriend.#
+die Freundin#Das ist meine Freundin.#friend / girlfriend#That is my friend/girlfriend.#context differentiates between friend/girlfriend
 früher#Früher waren wir oft zusammen im Kino.#earlier / in the past#In the past we often went to the cinema together.#
 frühstücken#Am Sonntag frühstücke ich gern im Bett.#to have breakfast#On Sunday I like to have breakfast in bed.#
 das Frühstück#Möchtest du ein Ei zum Frühstück?#breakfast#Would you like an egg for breakfast?#
@@ -272,7 +276,7 @@ es gibt#Es gibt keine Karten mehr.#there is/are#There are no more tickets.#
 geboren#Ich bin in Zagreb geboren.#born#I was born in Zagreb.#
 das Geburtsjahr#Das Geburtsjahr Ihres Sohnes, bitte?#birth year#Your son's year of birth, please?#
 der Geburtsort#Bitte schreiben Sie Ihren Geburtsort auf das Formular.#birthplace#Please write your birthplace on the form.#
-der Geburtstag#Herzlichen Glückwunsch zum Geburtstag!#birthday#Best wishes on your birthday!#
+der Geburtstag#Herzlichen Glückwunsch zum Geburtstag!#birthday#Best wishes on your birthday!#"or simply ""Happy birthday!"""
 gefallen#Das gefällt mir.#to like#I like that.#
 gegen#Fahr nicht gegen den Baum!#into#Don’t drive into the tree!#
 gegen#Ich bin gegen diese Lösung.#against#I am against this solution.#
@@ -288,7 +292,7 @@ das Gemüse#Gemüse brauchen wir auch noch.#vegetables#We also need vegetables.#
 das Gepäck#Wollen Sie Ihr Gepäck mitnehmen?#luggage#Do you want to take your luggage with you?#
 gerade#Da kommt er ja gerade.#now#There he comes now.#
 geradeaus#Gehen Sie immer geradeaus!#straight on#Keep going straight on!#
-gern(e)#Ich gehe gerne einkaufen.#happily??#I like to go shopping.#
+gern(e)#Ich gehe gerne einkaufen.#…#I like to go shopping.#etwas gern tun = to like doing something
 das Geschäft, -e#Die Geschäfte schließen um 18.30 Uhr.#shop#The shops close at 6:30 pm.#
 das Geschenk, -e#Danke für das schöne Geschenk.#present#Thank you for the beautiful present.#
 die Geschwister (pl.)#Ich habe leider keine Geschwister.#sibling#Unfortunately I have no siblings.#
@@ -389,9 +393,10 @@ der Jugendliche, -n#Viele Jugendliche kaufen gern ein.#youth/young person#Many y
 jung#Claudia ist 21. / Was? Noch so jung?#young#Claudia is 21. / What? Still so young?#
 der Junge, -n#Ich habe zwei Kinder. Einen Jungen und ein Mädchen.#boy#I have two children. One boy and one girl.#
 der Kaffee#Zum Frühstück trinke ich immer Kaffee.#coffee#For breakfast I always drink coffee.#
-kaputt#Das Glas war teuer. Es geht sehr leicht kaputt.#broken??#The glass was expensive. It will break very easily.#
+kaputt#Das Glas war teuer. Es geht sehr leicht kaputt.#…#The glass was expensive. It will break very easily.#kaputt gehen = to break
+kaputt#Das Glas ist kaputt.#broken#The glass is broken.#
 die Karte, -n#Ich schreibe meinen Bekannten eine Karte aus dem Urlaub.#card#I’ll write my acquaintance a card from holiday.#
-die Karte, -n#Wollen wir Karten spielen?#card#Shall we play cards?#
+die Karte, -n#Wollen wir Karten spielen?#card#Shall we play cards?#lit. “do we want to…”
 die Karte, -n#Ich möchte auch etwas essen. Bringen Sie mir die Karte, bitte.#menu#I also want to eat something. Please bring me the menu.#
 (Kredit)-Karte, -n#Kann ich auch mit Karte (be-) zahlen?#(credit) card#Can I also pay by card?#
 die Kartoffel, -n#Für Pommes frites braucht man Kartoffeln.#potato#For chips you need potatoes.#
@@ -411,7 +416,7 @@ die Kleidung#Wo finde ich Kleidung? / Jacken im ersten, Jeans im zweiten Stock.#
 klein#Eltville ist eine kleine Stadt am Rhein.#small#Eltwille is a small town on the Rhine.#
 kochen#Herr Georgi kann gut kochen.#to cook#Mr Georgi is good at cooking.#
 der Koffer, –#Ist das Ihr Koffer?#suitcase#Is that your suitcase?#
-der Kollege, -n#Wie heißt die neue Kollegin?#colleague#What’s your new colleague called?#
+der Kollege, -n#Wie heißt die neue Kollegin?#colleague#What’s your new colleague called?#NB: female
 kommen#Woher kommen Sie? / Aus Frankreich.#to come#Where do you come from? / From France.#
 kommen#Kommst du mit ins Schwimmbad?#to come#Are you coming with us to the pool?#
 können#Ich kann Deutsch und Russisch.#to be able to#I can speak German and Russian.#
@@ -425,9 +430,10 @@ die Küche#Der neue Herd kommt in die Küche.#kitchen#The new stove goes in the 
 der Kuchen#Ich nehme ein Stück Kuchen.#cake#I’ll have a piece of cake.#
 der Kugelschreiber#Hast du einen Kugelschreiber für mich?#ball-point pen#Do you have a pen I can borrow?#
 der Kühlschrank#Haben wir noch Milch? / Ja, im Kühlschrank.#fridge#Do we still have milk? / Yes, in the fridge.#
-kulturell#Ich bin kulturell interessiert. Ich gehe oft ins Museum.#cultural??#I am interested in culture. I often go to the museum.#
+kulturell interessiert#Ich bin kulturell interessiert. Ich gehe oft ins Museum.#interested in culture#I am interested in culture. I often go to the museum.#
+kulturell#Die Geschichte ist kulturell wichtig.#cultural#The story is culturally important.#
 sich kümmern#Jede Mutter kümmert sich um ihre kleinen Kinder.#to look after#Every mother looks after her little children.#
-der Kunde, -n#Einen Moment, bitte. Ich habe eine Kundin.#customer#One moment, please. I have a customer.#
+der Kunde, -n#Einen Moment, bitte. Ich habe eine Kundin.#customer#One moment, please. I have a customer.#NB: female
 der Kurs, -e#Der Deutschkurs geht bis zum Sommer.#course#The German course runs until summer.#
 kurz#Ricardo hat kurzes Haar.#short#Ricardo has short hair.#
 lachen#Die Kinder lachen viel.#to laugh#The children laugh a lot.#
@@ -456,11 +462,11 @@ die Leute (pl.)#In der Disko sind viele Leute.#people#There are a lot of people 
 das Licht#Wo macht man hier das Licht an?#light#Where do you switch on the light here?#
 lieb-#Liebe Susanne, lieber Hans,#dear#Dear Susanne, dear Hans,#
 lieben#Ich liebe dich!#to love#I love you!#
-lieber#Sie fährt lieber mit der Bahn.#to prefer#She prefers to travel by train.#
+lieber#Sie fährt lieber mit der Bahn.#to prefer#She prefers to travel by train.#lieber + verb = to prefer doing something
 Lieblings-#Mein Lieblingsfilm ist „Schwarze Augen“.#favourite#My favourite film is “Dark Eyes”.#
 das Lied, -er#Welches ist dein Lieblingslied?#song#Which is your favourite song?#
 liegen#Um neun Uhr liegt Judith noch im Bett.#to lie#At 9 am Judith is still (lying) in bed.#
-liegen#Frankfurt liegt am Main.#to lie / be located??#Frankfurt lies on the Main.#
+liegen#Frankfurt liegt am Main.#to lie / be located#Frankfurt lies on the Main.#NB: not used for humans
 links#Gehen Sie die nächste Straße links.#left#Go down the next street on the left.#
 der Lkw, -s#Dieser Lastkraftwagen ist sehr groß.#HGV#That heavy goods vehicle is very large.#
 das Lokal#In unserer Straße gibt es ein neues Lokal.#pub#There is a new pub on our street.#
@@ -469,9 +475,9 @@ lustig#Frau Mertens ist lustig. Sie lacht immer.#funny#Ms Mertens is funny. She 
 machen#Was machst du heute Abend?#to do#What are you doing this evening?#
 machen#Ich muss jetzt das Essen machen.#to make#I need to make the food now.#
 machen#Das macht 5 Euro 95.#to come to#That comes to 5 euros 95.#
-machen#Das macht nichts.#to do???#It doesn't matter.#
+machen#Das macht nichts.#…#It doesn't matter.#set phrase
 das Mädchen, –#Familie Kurz bekommt ein Baby. / Junge oder Mädchen?#girl#The Kurz family have a new baby. / Boy or girl?#
-man#Hier darf man nicht rauchen.#one / impersonal ‘you’#You may not smoke here.#
+man#Hier darf man nicht rauchen.#one / impersonal ‘you’#You may not smoke here.#NB: does not sound pretentious in German
 der Mann, -ä, er#Mein Mann arbeitet bei der Polizei.#man / husband#My husband works for the police.#
 männlich#Kreuzen Sie bitte an: „weiblich“ oder „männlich“.#male#Please tick “female” or “male”.#
 die Maschine, -n#Die Waschmaschine ist günstig.#machine#The washing machine is cheap.#
@@ -509,11 +515,11 @@ der Name, -n#Mein Vorname ist Thomas, Schmidt ist der Familienname.#name#My firs
 nehmen#Heute gibt es Hähnchen. Das nehme ich.#to have (food/drink)#There is chicken today. I’ll have that.#
 nehmen#Ich nehme den Bus.#to take#I take the bus.#
 nein#Fährst du auch nach München? / Nein, ich habe keine Zeit.#no#Are you also travelling to Munich? / No, I don‘t have time.#
-neu#Ich bin der neue Kollege.#new#I am the new colleague.#
+neu#Ich bin der neue Kollege.#new#I am the new colleague.#NB: male
 neu#Wir haben eine neue Wohnung.#new#We have a new flat.#
 nicht#Das stimmt nicht.#not#That’s not right.#
 nicht#Das ist doch schön, nicht?#no#That’s really beautiful, no?#
-nichts#Das macht nichts.#nothing??#It doesn't matter.#
+nichts#Das macht nichts.#…#It doesn't matter.#set phrase
 nichts#Hier kaufe ich nichts. Der Laden gefällt mir nicht.#nothing#I won’t buy anything here. I don’t like the shop.#
 nie#Er kommt nie pünktlich.#never#He is never on time.#
 noch#Vielleicht kommt er noch.#still#Perhaps he will still come.#
@@ -534,7 +540,7 @@ ohne#Ohne Geld kann er nichts kaufen.#without#Without money he can’t buy anyth
 das Öl#Den Salat machen wir ohne Öl.#oil#We make the salad without oil.#
 die Oma, -s#Meine Oma ist schon tot.#grandmother#My grandmother is already dead.#
 der Opa, -s#Mein Opa heißt Hans.#grandfather#My grandfather is called Hans.#
-die Ordnung#Das ist in Ordnung.#order??#That is in order.#
+die Ordnung#Das ist in Ordnung.#…#That is in order/acceptable/fine.#
 der Ort, -e#Der Ort liegt am Meer.#location / place#That place is by the sea.#
 das Papier#Hier sind Papier und Bleistift.#paper#Here is a pencil and paper.#
 die Papiere (pl.)#Haben Sie Ihre Papiere dabei?#papers#Do you have your papers with you?#
@@ -546,7 +552,7 @@ die Pause, -n#Von 12.00 bis 12.30 Uhr haben wir Mittagspause.#break#From 12 unti
 der Plan, -ä, e#Ich kaufe mir einen Stadtplan.#map / plan#I will buy myself a map of the town.#
 der Platz, -ä, e#Tut mir leid, der Platz ist besetzt.#seat#I’m sorry, this seat is taken.#
 der Platz, -ä, e#Bitte nehmen Sie Platz!#seat#Please take a seat!#
-der Platz, -ä, e#Ich wohne Messeplatz 5.#square#I live at Messeplatz 5.#
+der Platz, -ä, e#Ich wohne neben dem Platz.#square#I live next to the square.#
 die Polizei#Holen Sie die Polizei!#police#Fetch the police!#
 die Pommes frites (pl.)#Die Kinder essen Hähnchen mit Pommes frites.#chips#The children are eating chicken and chips.#
 die Post#Wo ist die Post, bitte?#post office#Where is the post office, please?#
@@ -593,17 +599,17 @@ schicken#Bitte schicken Sie mir eine E-Mail.#to send#Please send me an email.#
 das Schild, -er#Haben Sie nicht das Schild gesehen?#sign#Did you not see the sign?#
 der Schinken, –#Ich möchte gern ein Schinkenbrot.#ham#I would like a ham roll.#
 schlafen#Ich schlafe meistens acht Stunden.#to sleep#I usually sleep for eight hours.#
-schlecht#Mir ist schlecht!#sick#I am sick.#
+schlecht#Mir ist schlecht!#sick#I am sick.#NB: ill
 schlecht#Sie sehen schlecht aus.#bad#You look bad.#
 schlecht#Wir haben schlechtes Wetter.#bad#We have bad weather.#
 schließen#Bitte, schließen Sie die Tür.#to close#Please close the door.#
 geschlossen#Die Bank hat am Samstag geschlossen.#closed#The bank is closed on Saturday.#
-der Schluss#Ich muss jetzt Schluss machen.#closure??#I need to close up now.#
+der Schluss#Ich muss jetzt Schluss machen.#…#I need to finish/wrap up now.#
 der Schluss#Zum Schluss gibt er uns allen die Hand.#end#At the end, he shakes everyone’s hand.#
 der Schlüssel, –#Ich gebe Ihnen noch den Zimmerschlüssel.#key#I’ll give you the room key as well.#
 schmecken#Schmeckt das gut?#to taste#Does that taste good?#
 schnell#Er fährt schnell.#quick / fast#He drives fast.#
-schon#Ist das Essen schon fertig?#already#Is the food ready already?#
+schon#Ist das Essen schon fertig?#already#Is the food done already?#
 schön#Schönen Urlaub!#lovely#Have a lovely holiday!#
 schön#Das ist sehr schön.#beautiful#That is very beautiful.#
 der Schrank, -ä, e#Die Gläser stehen im Schrank.#cupboard#The glasses are in the cupboard.#
@@ -633,7 +639,7 @@ zu sein#Die Tür ist zu.#to be closed#The door is closed.#
 seit#Ich wohne seit drei Jahren in Köln.#for (an amount of time)#I have lived in Cologne for three years.#
 selbstständig#Er ist selbstständig.#independent#He is independent.#
 sich#Sie müssen sich erst anmelden.#yourself#You must register yourself first.#
-sie#Wie heißt sie?#she#What is her name?#
+sie#Wie heißt sie?#she#What is she called?#
 Sie#Wie heißen Sie, bitte?#you (polite)#What is your name, please?#
 sitzen#Wo sitzen Sie?#to sit#Where are you sitting?#
 so#Sie müssen das so machen!#like this#You must do it like this!#
@@ -664,7 +670,7 @@ die Straße, -n#In welcher Straße wohnen Sie?#street#Which street do you live o
 die Straßenbahn#Wo fährt die Straßenbahn ab?#tram#From where does the tram depart?#
 studieren#Ich studiere in Mainz.#to study#I study in Mainz.#
 das Studium#Das Studium beginnt im Oktober.#degree course#The degree course begins in October.#
-der Student, -en#Ich bin Studentin.#student#I am a student.#
+der Student, -en#Ich bin Studentin.#student#I am a student.#NB: female
 die Stunde, -n#Ich bin in einer Stunde zurück.#hour#I will be back in an hour.#
 suchen#Suchst du etwas?#to look / search for#Are you looking for something?#
 tanzen#Tanzen Sie gern?#to dance#Do you like to dance?#
@@ -685,7 +691,7 @@ die Tochter, -ö#Das ist meine Tochter Katharina.#daughter#That is my daughter K
 die Toilette, -en#Wo ist die Toilette, bitte?#toilet#Where is the toilet, please?#
 die Tomate, -n#Die Tomate ist noch grün.#tomato#The tomato is still green.#
 tot#Sein Vater ist schon lange tot.#dead#His father has been dead for a long time.#
-(sich) treffen#Ich treffe in der Stadt einen Kollegen.#to meet#I am meeting a colleague in town.#
+(sich) treffen#Ich treffe in der Stadt einen Kollegen.#to meet#I am meeting a colleague in town.#NB: male
 (sich) treffen#Wir treffen uns immer freitags.#to meet#We always meet on Fridays.#
 die Treppe, -n#Die Toilette? Die Treppe hoch und dann links.#stairs#The toilet? Up the stairs and then left.#
 trinken#Möchtest du etwas trinken?#to drink#Would you like something to drink?#
@@ -702,7 +708,7 @@ um#Er kommt um sieben Uhr.#at#He is coming at seven o’clock.#
 um#Da kommt er gerade um die Ecke.#around#Here he comes around the corner now.#
 umziehen#Nächsten Monat ziehen wir um.#to move (residence)#Next month we are moving.#
 und#Peter und Helmut sind meine Söhne.#and#Peter and Helmut are my sons.#
-unser-#Das ist unsere Lehrerin.#our#That is our teacher.#
+unser-#Das ist unsere Lehrerin.#our#That is our teacher.#NB: female
 unten#Er wohnt ganz unten im Haus.#at the bottom#He lives right at the bottom of the house.#
 unter#Unter uns wohnt eine Familie mit drei Kindern.#below#Below us lives a family with three children.#
 der Unterricht#Wir haben Unterricht von 8.00 bis 12.00 Uhr.#class#We have classes from 8 am until 12 pm.#
@@ -727,7 +733,8 @@ von#Er kommt gerade von Köln/von zu Hause.#from#He’s coming from Cologne/home
 vor#Der Termin war vor einer Stunde.#ago#The appointment was an hour ago.#
 vor#Das Auto steht vor der Tür.#in front of#The car is in front of the door.#
 der Vorname, -n#Ich heiße Müller, mein Vorname ist Eva.#first name#I’m called Müller, my first name is Eva.#
-die Vorsicht#Vorsicht! Da kommt ein Auto.#attention ??#Careful! There’s a car coming.#
+die Vorsicht#Vorsicht! Da kommt ein Auto.#…#Careful! There’s a car coming.#
+die Vorsicht#Er arbeitet mit Vorsicht.#attention#He works with caution.#
 (sich) vorstellen#Wir wollen uns kennenlernen. Können Sie sich bitte vorstellen?#to introduce#We would like to get to know each other. Can you introduce yourself?#
 die Vorwahl#Wie ist die Vorwahl von München?#area code#What is the area code for Munich?#
 wandern#Wir wandern um den Chiemsee.#to hike#We are hiking around the Chiem lake.#
@@ -764,8 +771,8 @@ wie#Wie groß ist die Wohnung?#how#How big is the flat?#
 wie#Wie bitte?#…#Pardon?#
 wie#Wie lange bist du schon hier?#how#How long have you been here already?#
 wiederholen#Können Sie das bitte wiederholen?#to repeat#Could you repeat that, please?#
-das Wiederhören#Wir müssen jetzt Schluss machen. Also auf Wiederhören!#…#We have to wrap up. Right, goodbye!#
-das Wiedersehen#Auf Wiedersehen!#…#Goodbye!#
+das Wiederhören#Wir müssen jetzt Schluss machen. Also auf Wiederhören!#…#We have to wrap up. Right, goodbye!#NB: used on the telephone
+das Wiedersehen#Auf Wiedersehen!#…#Goodbye!#lit: “until we see each other again”
 wie viel#Wie viel Milch nehmen Sie?#how much#How much milk do you take?#
 willkommen#Herzlich willkommen!#…#Welcome!#
 der Wind#Der Wind kommt aus Osten.#wind#The wind is coming from the east.#
@@ -778,11 +785,11 @@ woher#Woher kommen Sie?#from where#Where do you come from?#
 wohin#Wohin fährt dieser Bus?#to where#Where does this bus go?#
 wohin#Wohin wollen Sie am Wochenende?#to where#Where do you want to go this weekend?#
 wohnen#Ich wohne in München.#to live#I live in Munich.#
-die Wohnung, -en#Seit wann haben Sie diese Wohnung?#flat#How long have you had this flat?#
+die Wohnung, -en#Seit wann haben Sie diese Wohnung?#flat#How long have you had this flat?#NB: for how long...?
 wollen#Wollen Sie einen Kaffee trinken?#to want#Do you want to get a coffee?#
 das Wort, -ö, er/-e#Ich kenne das Wort nicht.#word#I don’t know that word.#
 wunderbar#Das Essen schmeckt wunderbar.#wonderful#The food tastes wonderful.#
-zahlen#Zahlen, bitte!#to pay#The bill, please!#
+zahlen#Wir möchten zahlen, bitte!#to pay#We’d like to pay, please!#
 die Zeit#Ich habe heute keine Zeit.#time#I have no time today#
 zurzeit#Zurzeit habe ich sehr viel zu tun.#at the moment#I have a lot to do at the moment.#
 die Zeitung, -en#Ich lese gern Zeitung.#newspaper#I like to read the newspaper.#
