@@ -7,7 +7,7 @@ The original document is available [here](https://www.goethe.de/pro/relaunch/prf
 
 I translated the words and sentences personally, and a professional German->English translator proofread the results.
 Both of us are native English speakers, so there are unlikely to be errors, but we are only human.
-x
+
 
 ## How it was created.
 
@@ -40,10 +40,20 @@ Some of the sentences from the Goethe Institute were not brilliant example of th
 However, since addresses are not translated, this would not have been a useful sentence to translate, so I changed it to "Ich wohne neben dem Platz."
 
 There are a small number of modifications of this nature, or instance, where I have added an additional sentence to distinguish between two common usages of a word.
-These examples are listed exhaustively below:
+These cases are listed below:
 
-
-
+* Replacement: "Ich wohne Messeplatz 5." replaced with "Ich wohne neben dem Platz." - since addresses are not translated, this would not demonstrate the noun "Platz".
+* Replacement: "einmal" replaced with "noch einmal" to better fit the example sentence.
+* Replacement: "bei" -> "bei uns" to better fit the example sentence.
+* Replacement: "kulturell" -> "kulturell interessiert" to better fit the example sentence.
+* Replacement: "Zahlen, bitte!" -> "Wir möchten zahlen, bitte!" to ensure the word "pay" is used in the sentence.
+* New: "Er arbeitet mit Vorsicht." - difference between "Vorsicht" as "caution" or "attention" and the exclamatory "Vorsicht!" ("Watch out!" or "Careful!")
+* New: "Die Geschichte ist kulturell wichtig." - illustrates meaning of "kulturell" in isolation, as opposed to "kulturell interessiert".
+* New: "Das Glas ist kaputt." -> illustrates meaning of "kaputt" in insolation, as opposed to "kaputt gehen".
+* New: "Sie dürfen diese Prüfung nur einmal machen." -> to illustrate the meaning of "einmal" instead of "noch einmal".
+* New: "dort" -> separate entries for "dort", "dorther" and "dorthin".
+* New: "sich ausziehen" -> to clarify when "sich" should be added to "ausziehen"
+* New: "Ich mag das Buch." -> so that "das" has a translation to "the" (not just "that") in line with "der" and "die"
 
 
 ## Last words
