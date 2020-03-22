@@ -17,7 +17,7 @@ This was not a scripted process, and involved quite a lot of spreadsheet and tex
 I included the additional snippets of vocabulary that appear before the list proper, but without example sentences since none were provided.
 This extra vocabulary is primarily colours, months, days, numbers, units, and other elementary concepts that will likely be useful.
 
-The audio was created automatically by google cloud using the AwesomeTTS Update plugin, which saved me a tremendous amount of work, and saved everyone else from having to listen to my voice :)
+The audio was created automatically by google cloud using the (AwesomeTTS \(Google Cloud Text-to-Speech\)\[unofficial\])[https://ankiweb.net/shared/info/814349176], which saved me a tremendous amount of work, and saved everyone else from having to listen to my voice :)
 
 
 ## Card format
@@ -47,6 +47,7 @@ These cases are listed below:
 * Replacement: "bei" -> "bei uns" to better fit the example sentence.
 * Replacement: "kulturell" -> "kulturell interessiert" to better fit the example sentence.
 * Replacement: "Zahlen, bitte!" -> "Wir möchten zahlen, bitte!" to ensure the word "pay" is used in the sentence.
+* Replacement: "8.00 Uhr" -> "8:00 Uhr" to allow the text-to-speach to speak as expected.
 * New: "Er arbeitet mit Vorsicht." - difference between "Vorsicht" as "caution" or "attention" and the exclamatory "Vorsicht!" ("Watch out!" or "Careful!")
 * New: "Die Geschichte ist kulturell wichtig." - illustrates meaning of "kulturell" in isolation, as opposed to "kulturell interessiert".
 * New: "Das Glas ist kaputt." -> illustrates meaning of "kaputt" in insolation, as opposed to "kaputt gehen".
