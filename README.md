@@ -1,4 +1,4 @@
-# Goethe Institute A1 Word List (vocab, sentences, translation, with audio)
+# Goethe Institute A1 Wordlist
 
 ## About this Deck
 
