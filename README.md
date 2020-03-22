@@ -16,6 +16,8 @@ This was not a scripted process, and involved quite a lot of spreadsheet and tex
 
 I included the additional snippets of vocabulary that appear before the list proper, but without example sentences since none were provided.
 This extra vocabulary is primarily colours, months, days, numbers, units, and other elementary concepts that will likely be useful.
+These do not have any audio, as the TTS does not handle the plural notation gracefully.
+The (Advanced Browser)[https://ankiweb.net/shared/info/874215009] plugin was invaluable for finding these entries when adding the audio.
 
 The audio was created automatically by google cloud using the (AwesomeTTS \(Google Cloud Text-to-Speech\)\[unofficial\])[https://ankiweb.net/shared/info/814349176], which saved me a tremendous amount of work, and saved everyone else from having to listen to my voice :)
 
