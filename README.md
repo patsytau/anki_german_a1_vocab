@@ -21,6 +21,8 @@ The (Advanced Browser)[https://ankiweb.net/shared/info/874215009] plugin was inv
 
 The audio was created automatically by google cloud using the (AwesomeTTS \(Google Cloud Text-to-Speech\)\[unofficial\])[https://ankiweb.net/shared/info/814349176], which saved me a tremendous amount of work, and saved everyone else from having to listen to my voice :)
 
+Finally, I used the (Add note id)[https://ankiweb.net/shared/info/1672832404] plugin to add ids to the notes in case I need to make future corrections.
+
 
 ## Card format
 
@@ -34,6 +36,8 @@ In such cases the word is not translated, but an ellipsis ('...') is given in pl
 
 Where a word has multiple translations and sample sentences, these were split into individual notes.
 This avoids a word having only one translation, which may not appear in the translated sample sentence (without it being a tortured rephrasing).
+
+
 
 
 ## Deviations from the Goethe Institute
