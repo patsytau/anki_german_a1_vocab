@@ -1,0 +1,6 @@
+{{de_word}}
+{{#de_sentence}}
+<br><br>
+<i>{{de_sentence}}</i>
+{{/de_sentence}}
+{{de_audio}}
