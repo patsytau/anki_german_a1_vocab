@@ -48,12 +48,17 @@ However, since addresses are not translated, this would not have been a useful s
 There are a small number of modifications of this nature, or instance, where I have added an additional sentence to distinguish between two common usages of a word.
 These cases are listed below:
 
+* Replacement: "Herr Ober, kann ich bitte Salz haben?" replaced with "Entschuldigung, kann ich bitte das Salz haben?" after feedback from a native German speaker ("Herr Ober is an outdated way of addressing a waiter at a restaurant.").
+* Replacement: "Haben Sie Telefon?" replaced with "Haben Sie ein Telefon?" following feedback from a native German speaker.
+* Replacement: "Hören Sie die Ansagen." replaced with "Hören Sie auf die Ansagen." following feedback from a native German speaker.
 * Replacement: "Ich wohne Messeplatz 5." replaced with "Ich wohne neben dem Platz." - since addresses are not translated, this would not demonstrate the noun "Platz".
 * Replacement: "einmal" replaced with "noch einmal" to better fit the example sentence.
 * Replacement: "bei" -> "bei uns" to better fit the example sentence.
 * Replacement: "kulturell" -> "kulturell interessiert" to better fit the example sentence.
 * Replacement: "Zahlen, bitte!" -> "Wir möchten zahlen, bitte!" to ensure the word "pay" is used in the sentence.
 * Replacement: "8.00 Uhr" -> "8:00 Uhr" to allow the text-to-speach to speak as expected.
+* Replacement: "Wie schmeckt dir der Salat?" -> "Wie schmeckt dir den Salat?" - should be accusative, following feedback from a native German speaker.
+* New: "Ich wasche mich morgens." - to indicate the reflexive form of waschen.
 * New: "Er arbeitet mit Vorsicht." - difference between "Vorsicht" as "caution" or "attention" and the exclamatory "Vorsicht!" ("Watch out!" or "Careful!")
 * New: "Die Geschichte ist kulturell wichtig." - illustrates meaning of "kulturell" in isolation, as opposed to "kulturell interessiert".
 * New: "Das Glas ist kaputt." -> illustrates meaning of "kaputt" in insolation, as opposed to "kaputt gehen".
