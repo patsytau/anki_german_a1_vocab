@@ -66,6 +66,7 @@ These cases are listed below:
 * New: "dort" -> separate entries for "dort", "dorther" and "dorthin".
 * New: "sich ausziehen" -> to clarify when "sich" should be added to "ausziehen"
 * New: "Ich mag das Buch." -> so that "das" has a translation to "the" (not just "that") in line with "der" and "die"
+* Removed: "Sie haben Zimmer Nummer zwölf." - would normally be written "Zimmernummer zwölf", but this didn't add anything over the "Hausnummmer" example.
 
 
 ## Last words

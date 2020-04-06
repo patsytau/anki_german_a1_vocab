@@ -1,4 +1,4 @@
-84886454452	die Ansage, -n	Hören Sie auf die Ansagen.	announcement	Listen to the announcements.		[sound:googletts-19abc5f7-3d6cf2a0-3e4250cd-35f29c8a-ddfe53ae.mp3]
+84886454452	die Ansage, -n	Hören Sie auf die Ansagen.	announcement	Listen to the announcements.		
 84886454453	der Anschluss	In Mannheim haben Sie Anschluss nach Saarbrücken.	connection	In Mannheim you have a connection to Saarbrücken.		[sound:googletts-eb2508ae-dc2eeb2f-4baf4b77-1a2b2016-a134ca49.mp3]
 84886454454	der Anschluss	Ist das die Anmeldung für einen Telefonanschluss?	connection	Is that the application for a telephone connection?		[sound:googletts-1b55e30e-05f02958-e7ac5bc8-94f45979-aaf74fd7.mp3]
 84886454455	an sein	Heute Nacht war das Licht an.	to be (switched) on	The light was on tonight.		[sound:googletts-90ef828d-c517d77a-8813bb67-f62ff6e3-6e7b69b0.mp3]
@@ -526,7 +526,6 @@
 84886454977	noch	Wir warten noch fünf Minuten.	another	We will wait another five minutes.		[sound:googletts-f1d5e919-d31fb39e-340c55c8-223491f5-33ed5d06.mp3]
 84886454978	noch	Ich habe noch 20 Euro.	still	I still have 20 euros.		[sound:googletts-c7bc7920-b5c69f46-92abcdaa-825ff4ce-35b5a231.mp3]
 84886454979	normal	75 kg. Sein Gewicht ist normal.	normal	75 kg. His weight is normal.		[sound:googletts-4c880197-b7cc080a-c857f962-e3d0b568-1f401d0a.mp3]
-84886454980	die Nummer, -n	Sie haben Zimmer Nummer zwölf.	number	You have room number 12.		[sound:googletts-99603c44-1709e731-f20938d0-59c172a0-38573b6f.mp3]
 84886454981	die Nummer, -n	Welche Hausnummer haben Sie?	number	Which house number is yours?		[sound:googletts-65de32b8-80d76005-30e74610-b88e0f11-8678a3e5.mp3]
 84886454982	die Nummer, -n	Können Sie mir Ihre Nummer geben?	number	Can you give me your number?		[sound:googletts-91dff0b6-baa9e642-e6002e8f-c37264ee-6365dd4f.mp3]
 84886454983	nur	Ich möchte nur ein Glas Wasser.	only	I only want a glass of water.		[sound:googletts-287f6025-6d9cbba8-75703ba9-e72339e3-201a1b1f.mp3]
