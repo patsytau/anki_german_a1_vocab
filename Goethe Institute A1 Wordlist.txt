@@ -1,4 +1,4 @@
-84886454452	die Ansage, -n	Hören Sie auf die Ansagen.	announcement	Listen to the announcements.		
+84886454452	die Ansage, -n	Hören Sie auf die Ansagen.	announcement	Listen to the announcements.		[sound:googletts-f8932bbf-fb28d658-c483c0e6-302ff0a0-168d0e51.mp3]
 84886454453	der Anschluss	In Mannheim haben Sie Anschluss nach Saarbrücken.	connection	In Mannheim you have a connection to Saarbrücken.		[sound:googletts-eb2508ae-dc2eeb2f-4baf4b77-1a2b2016-a134ca49.mp3]
 84886454454	der Anschluss	Ist das die Anmeldung für einen Telefonanschluss?	connection	Is that the application for a telephone connection?		[sound:googletts-1b55e30e-05f02958-e7ac5bc8-94f45979-aaf74fd7.mp3]
 84886454455	an sein	Heute Nacht war das Licht an.	to be (switched) on	The light was on tonight.		[sound:googletts-90ef828d-c517d77a-8813bb67-f62ff6e3-6e7b69b0.mp3]
@@ -589,7 +589,7 @@
 84886455041	der Saft	Möchtest du einen Apfelsaft?	juice	Would you like an apple juice?		[sound:googletts-b8072f48-32bab0a3-5f8faeb1-52f4b277-b5947dd7.mp3]
 84886455042	sagen	Sag mal, wie geht es dir denn?	to say / tell	Tell me, how’s it going?		[sound:googletts-8bfb239f-4d3cec67-908300d9-4ef9b4cd-135eaf5b.mp3]
 84886455043	der Salat	Wie schmeckt dir der Salat?	salad	How does the salad taste?		[sound:googletts-0aedebc1-6b4d8b07-1f1dad7b-ede35814-84425932.mp3]
-84886455044	das Salz	Entschuldigung, kann ich bitte das Salz haben?	salt	Excuse me, can I have the salt please?		
+84886455044	das Salz	Entschuldigung, kann ich bitte das Salz haben?	salt	Excuse me, can I have the salt please?		[sound:googletts-067c539f-ed57816c-f0478b98-c34fc73b-ac32b49b.mp3]
 84886455045	Satz, -ä, e	Dieser Satz ist sehr einfach.	sentence	This sentence is very simple.		[sound:googletts-47ad0e36-0fdd9643-b956c2bd-32f6c1f1-74f9095a.mp3]
 84886455046	die S-Bahn	Ich nehme lieber die S-Bahn.	commuter train	I prefer to take the commuter train.		[sound:googletts-c7ba8fad-104dd958-e5b9f4ac-ff0e2fb8-d5b303c5.mp3]
 84886455047	der Schalter	Gehen Sie bitte zum Schalter drei!	counter	Please go to counter 3!		[sound:googletts-70ace7ae-7b635794-05bc6035-e2a2b31f-665c4838.mp3]
@@ -678,7 +678,7 @@
 84886455130	der Tee	Ich trinke morgens immer Tee.	tea	I always drink tea in the morning.		[sound:googletts-a4bf16d3-1bca36c5-7dfc71fa-a40cde1c-1103788d.mp3]
 84886455131	der Teil, -e	Lies bitte auch den zweiten Teil.	part	Please also read the second part.		[sound:googletts-2c96affd-40a7e85e-cb816f71-4785c85f-0d301cce.mp3]
 84886455132	telefonieren	Darf ich mal telefonieren?	to telephone	May I make a phone call?		[sound:googletts-215733bd-9db6f00c-d967991e-00f346b0-b19ca13d.mp3]
-84886455133	das Telefon	Haben Sie ein Telefon?	telephone	Do you have a telephone?		
+84886455133	das Telefon	Haben Sie ein Telefon?	telephone	Do you have a telephone?		[sound:googletts-bd2ad800-1a979f95-6e882318-ff1aa2bd-87704016.mp3]
 84886455134	der Termin, -e	Am besten machen wir sofort einen Termin.	appointment	It's best to make an appointment immediately.		[sound:googletts-2b119732-56a320db-93e52ec6-fa728b29-1f6e7bd5.mp3]
 84886455135	der Test	Der Test war einfach.	test	The test was simple.		[sound:googletts-1692f4a0-993e7db0-62875e77-a69d3909-04b78b8b.mp3]
 84886455136	teuer	Das ist mir zu teuer.	expensive	That is too expensive for me.		[sound:googletts-7ec82fec-35e2bee7-c255b036-9c236a6c-f805da42.mp3]
@@ -727,7 +727,7 @@
 84886455179	der Verwandte, -n	Peter besucht seine Verwandten in Polen.	relative	Peter visits his relatives in Poland.		[sound:googletts-b36e9723-dc731db5-314efe28-72b73e87-5bf78d12.mp3]
 84886455180	viel	Hier regnet es viel.	a lot	It rains a lot here.		[sound:googletts-5cdf83c2-77bb1baf-aeee6f13-356635b9-114034e7.mp3]
 84886455181	vielleicht	Ich komme vielleicht mit dem Bus.	perhaps / may(be)	I may come by bus.		[sound:googletts-5d4eff98-d335071b-225ced3f-1137a0ac-f16cb8ec.mp3]
-84886455182	von	Das Auto von Felix ist kaputt.	of (possessive “s")	Felix’s car is broken.		[sound:googletts-d9fbf07e-dfdcd90a-0393c974-d4bb974e-e99ebe8c.mp3]
+84886455182	von	Das Auto von Felix ist kaputt.	"of (possessive “s"")"	Felix’s car is broken.		[sound:googletts-d9fbf07e-dfdcd90a-0393c974-d4bb974e-e99ebe8c.mp3]
 84886455183	von	Er kommt gerade von Köln/von zu Hause.	from	He’s coming from Cologne/home now.		[sound:googletts-a183fdf5-7d00beba-4f632fd2-fc5bc768-96fca192.mp3]
 84886455184	vor	Der Termin war vor einer Stunde.	ago	The appointment was an hour ago.		[sound:googletts-e871078c-650a048b-c1d13c6a-0597a05e-0a32cd4a.mp3]
 84886455185	vor	Das Auto steht vor der Tür.	in front of	The car is in front of the door.		[sound:googletts-b1fdc3c9-d5826eea-254a6c43-183c15f8-35a0cf98.mp3]
@@ -748,7 +748,6 @@
 84886455200	was für ein	Was für eine Farbe möchten Sie?	what kind of	What colour would you like?		[sound:googletts-35acb789-6100a50a-7847a857-913e9a28-70a396ba.mp3]
 84886455201	(sich) waschen	Wo kann ich mir die Hände waschen?	to wash	Where can I wash my hands?		[sound:googletts-35f73a80-b98523c7-7e8325c9-9b8c8437-11cae3ba.mp3]
 84886455202	(sich) waschen	Ich muss morgen waschen.	to wash	I need to do laundry tomorrow.		[sound:googletts-5e10b5c2-76e262f1-4478dcad-645feb3a-f4df3b17.mp3]
-	(sich) waschen	Ich wasche mich morgens.	to wash	I wash in the morning.		
 84886455203	das Wasser	Ein Glas Wasser, bitte.	water	A glass of water, please.		[sound:googletts-467da599-a5c642d6-49edb919-2b65ef67-2e6d56fe.mp3]
 84886455204	weh tun	Ich muss zum Arzt. Mein Bein tut weh.	to hurt	I need to go to the doctor. My leg hurts.		[sound:googletts-8b01b0a5-59b92fa0-4d6ad7de-daee4d69-d16d2506.mp3]
 84886455205	weiblich	Kreuzen Sie bitte an: „weiblich“ oder „männlich“.	female	Please tick “female” or “male”.		[sound:googletts-88008e7d-351ccfa5-232b5641-0a4b30a2-2eb8f433.mp3]
@@ -923,3 +922,4 @@
 84887177270	der Süden		south			
 84887177271	der Westen		west			
 84887177272	der Osten		east			
+86187263997	(sich) waschen	Ich wasche mich morgens.	to wash	I wash in the morning.		[sound:googletts-6d3e290e-f1505b76-ba87153f-77c46f06-ce8c90df.mp3]
