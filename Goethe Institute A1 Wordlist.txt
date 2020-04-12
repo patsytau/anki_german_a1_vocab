@@ -68,7 +68,7 @@
 84886454519	bedeuten	Was bedeutet das Wort?	to mean	What does that word mean?		[sound:googletts-fa2e91ff-eaf8ceb0-f3a0d87a-79742413-162cb030.mp3]
 84886454520	beginnen	Das Spiel beginnt um 15.30 Uhr.	to begin	The game begins at 3:30 pm.		[sound:googletts-7be82fe1-20366d85-b87ce80b-2f70fd13-2e843ff5.mp3]
 84886454521	bei	Offenbach liegt bei Frankfurt.	next to	Offenbach is next to Frankfurt.		[sound:googletts-dcb61a5d-99c70724-6df8f49f-9f3cc669-e913200e.mp3]
-84886454522	bei	Ich wohne bei meinen Eltern.	with	I live at my parents’ place.		[sound:googletts-b16e9bb4-3cd0508b-6f142eb8-33d588f9-b0d42d8e.mp3]
+84886454522	bei	Ich wohne bei meinen Eltern.	at	I live at my parents’ place.		[sound:googletts-b16e9bb4-3cd0508b-6f142eb8-33d588f9-b0d42d8e.mp3]
 84886454523	bei uns	Bei uns regnet es heute.	here / where we are	It is raining here today.	bei uns = set phrase	[sound:googletts-1b75f078-5d47f037-05a289b3-f076a5ae-378e4b23.mp3]
 84886454524	bei	Er arbeitet bei der Polizei.	for	He works for the police.		[sound:googletts-89176396-ec9de425-f403685a-48fabf61-ca58e1d0.mp3]
 84886454525	beide	Beide Eltern arbeiten.	both	Both parents work.		[sound:googletts-ab3a335c-c7339e90-31769f7b-ba301658-7b0ce975.mp3]
