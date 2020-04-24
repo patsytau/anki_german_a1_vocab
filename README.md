@@ -19,7 +19,7 @@ This extra vocabulary is primarily colours, months, days, numbers, units, and ot
 These do not have any audio, as the TTS does not handle the plural notation gracefully.
 The (Advanced Browser)[https://ankiweb.net/shared/info/874215009] plugin was invaluable for finding these entries when adding the audio.
 
-The audio was created automatically by google cloud using the (AwesomeTTS \(Google Cloud Text-to-Speech\)\[unofficial\])[https://ankiweb.net/shared/info/814349176], which saved me a tremendous amount of work, and saved everyone else from having to listen to my voice :)
+The audio was created automatically by google cloud using the (AwesomeTTS \(Google Cloud Text-to-Speech\)\[unofficial\])[https://ankiweb.net/shared/info/814349176] plugin with the "German (de-DE-German-Wavenet-A)" setting, which saved me a tremendous amount of work, and saved everyone else from having to listen to my voice :)
 
 Finally, I used the (Add note id)[https://ankiweb.net/shared/info/1672832404] plugin to add ids to the notes in case I need to make future corrections.
 
@@ -59,14 +59,13 @@ These cases are listed below:
 * Replacement: "8.00 Uhr" -> "8:00 Uhr" to allow the text-to-speach to speak as expected.
 * Replacement: "Wie schmeckt dir der Salat?" -> "Wie schmeckt dir den Salat?" - should be accusative, following feedback from a native German speaker.
 * New: "Ich wasche mich morgens." - to indicate the reflexive form of waschen.
-* New: "Er arbeitet mit Vorsicht." - difference between "Vorsicht" as "caution" or "attention" and the exclamatory "Vorsicht!" ("Watch out!" or "Careful!")
+* New: "Er arbeitet mit Vorsicht." - the sentence was meant to demonstrate the noun "Vorsicht", but there is a difference between "Vorsicht" as "caution" or "attention" and the exclamatory "Vorsicht!" ("Watch out!" or "Careful!").
 * New: "Die Geschichte ist kulturell wichtig." - illustrates meaning of "kulturell" in isolation, as opposed to "kulturell interessiert".
 * New: "Das Glas ist kaputt." -> illustrates meaning of "kaputt" in insolation, as opposed to "kaputt gehen".
 * New: "Sie dürfen diese Prüfung nur einmal machen." -> to illustrate the meaning of "einmal" instead of "noch einmal".
 * New: "dort" -> separate entries for "dort", "dorther" and "dorthin".
 * New: "sich ausziehen" -> to clarify when "sich" should be added to "ausziehen"
 * New: "Ich mag das Buch." -> so that "das" has a translation to "the" (not just "that") in line with "der" and "die"
-* Removed: "Sie haben Zimmer Nummer zwölf." - would normally be written "Zimmernummer zwölf", but this didn't add anything over the "Hausnummmer" example.
 
 
 ## Last words
