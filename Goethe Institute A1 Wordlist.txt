@@ -923,3 +923,4 @@
 84887177271	der Westen		west			
 84887177272	der Osten		east			
 86187263997	(sich) waschen	Ich wasche mich morgens.	to wash	I wash in the morning.		[sound:googletts-6d3e290e-f1505b76-ba87153f-77c46f06-ce8c90df.mp3]
+87762765053	die Nummer, -n	Sie haben Zimmer Nummer zwölf.	number	You have room number twelve.		[sound:googletts-f1b24ff8-5a09d7b9-89229ad0-c44166be-5e3fcd2e.mp3]
