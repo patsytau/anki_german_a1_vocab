@@ -776,7 +776,7 @@
 84886455228	willkommen	Herzlich willkommen!	…	Welcome!		[sound:googletts-d742cf79-04ff5154-7a19488b-2063c616-27b50a50.mp3]
 84886455229	der Wind	Der Wind kommt aus Osten.	wind	The wind is coming from the east.		[sound:googletts-4d0ed49b-2a7988a8-d74ad466-d8e7c97d-9a227426.mp3]
 84886455230	wir	Wir lernen Deutsch.	we	We are learning German.		[sound:googletts-d4db01f0-73623bdf-45fc7d0a-9c00245d-16dc052a.mp3]
-84886455231	wissen	Weißt du, wie er heißt?	to know	Do you now what he is called?		[sound:googletts-70773341-23342b68-a49e1e66-79598487-ca267cf4.mp3]
+84886455231	wissen	Weißt du, wie er heißt?	to know	Do you know what he is called?		[sound:googletts-70773341-23342b68-a49e1e66-79598487-ca267cf4.mp3]
 84886455232	wo	Wo waren Sie im Urlaub?	where	Where were you on holiday?		[sound:googletts-834c3419-f6b65d22-621d8e47-61df05ca-057d2741.mp3]
 84886455233	wo	Wo ist die Post?	where	Where is the post office?		[sound:googletts-a2c5d9e4-cd614c91-faf8b978-fa59e26a-1b2d5bfb.mp3]
 84886455234	wo	Wo sind Sie geboren?	where	Where were you born?		[sound:googletts-826f555f-f24b9772-87a53421-a315bfe2-c59b285e.mp3]
