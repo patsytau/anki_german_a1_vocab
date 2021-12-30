@@ -590,7 +590,7 @@
 84886455042	sagen	Sag mal, wie geht es dir denn?	to say / tell	Tell me, how’s it going?		[sound:googletts-8bfb239f-4d3cec67-908300d9-4ef9b4cd-135eaf5b.mp3]
 84886455043	der Salat	Wie schmeckt dir der Salat?	salad	How does the salad taste?		[sound:googletts-0aedebc1-6b4d8b07-1f1dad7b-ede35814-84425932.mp3]
 84886455044	das Salz	Entschuldigung, kann ich bitte das Salz haben?	salt	Excuse me, can I have the salt please?		[sound:googletts-067c539f-ed57816c-f0478b98-c34fc73b-ac32b49b.mp3]
-84886455045	Satz, -ä, e	Dieser Satz ist sehr einfach.	sentence	This sentence is very simple.		[sound:googletts-47ad0e36-0fdd9643-b956c2bd-32f6c1f1-74f9095a.mp3]
+84886455045	der Satz, -ä, e	Dieser Satz ist sehr einfach.	sentence	This sentence is very simple.		[sound:googletts-47ad0e36-0fdd9643-b956c2bd-32f6c1f1-74f9095a.mp3]
 84886455046	die S-Bahn	Ich nehme lieber die S-Bahn.	commuter train	I prefer to take the commuter train.		[sound:googletts-c7ba8fad-104dd958-e5b9f4ac-ff0e2fb8-d5b303c5.mp3]
 84886455047	der Schalter	Gehen Sie bitte zum Schalter drei!	counter	Please go to counter 3!		[sound:googletts-70ace7ae-7b635794-05bc6035-e2a2b31f-665c4838.mp3]
 84886455048	scheinen	Die Sonne scheint.	to shine	The sun is shining.		[sound:googletts-072ed16d-3dec6b2b-8a81d59e-642b1014-fc3fa335.mp3]
