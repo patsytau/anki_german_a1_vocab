@@ -58,6 +58,7 @@ These cases are listed below:
 * Replacement: "Zahlen, bitte!" -> "Wir möchten zahlen, bitte!" to ensure the word "pay" is used in the sentence.
 * Replacement: "8.00 Uhr" -> "8:00 Uhr" to allow the text-to-speach to speak as expected.
 * Replacement: "Wie schmeckt dir der Salat?" -> "Wie schmeckt dir den Salat?" - should be accusative, following feedback from a native German speaker.
+* Replacement: "Wir müssen jetzt Schluss machen. Also auf Wiederhören!" -> "Auf Wiederhören!" - to match the example of "Auf Wiedersehen!"
 * New: "Ich wasche mich morgens." - to indicate the reflexive form of waschen.
 * New: "Er arbeitet mit Vorsicht." - the sentence was meant to demonstrate the noun "Vorsicht", but there is a difference between "Vorsicht" as "caution" or "attention" and the exclamatory "Vorsicht!" ("Watch out!" or "Careful!").
 * New: "Die Geschichte ist kulturell wichtig." - illustrates meaning of "kulturell" in isolation, as opposed to "kulturell interessiert".
