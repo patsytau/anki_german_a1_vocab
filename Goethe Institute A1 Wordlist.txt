@@ -225,7 +225,7 @@
 84886454676	der Familienstand	Bei „Familienstand“ musst du „ledig“ ankreuzen.	family/marital status	Under “family status” you have to tick “single”.		[sound:googletts-e63648b3-de77d636-77007f8b-d6287205-ce04c9d8.mp3]
 84886454677	die Farbe, -n	Die Farbe gefällt mir gut.	colour	I like the colour.		[sound:googletts-044a553c-527c3b8a-4871de1b-ed405325-9d815a1b.mp3]
 84886454678	das Fax, -e	Schicken Sie uns einfach ein Fax!	fax	Just send us a fax!		[sound:googletts-f3ea40ea-dbdfa9f0-738fb504-5b23e6f4-3282aaa9.mp3]
-84886454679	der Feierabend	Wir machen jetzt Feierabend.	…	We are calling it a day now. / We are finishing work for the day now.	Feierabend machen = set phrase for the end of work/home time	[sound:googletts-632f0e8d-ad584475-80bb9633-93084b97-b03b8148.mp3]
+84886454679	der Feierabend	Wir machen jetzt Feierabend.	end of work/home time	We are calling it a day now. / We are finishing work for the day now.	… machen = set phrase for the end of work/home time	[sound:googletts-632f0e8d-ad584475-80bb9633-93084b97-b03b8148.mp3]
 84886454680	der Feiertag	Am Montag ist Feiertag.	bank holiday	Monday is a bank holiday.		[sound:googletts-318198f0-bd02f90e-f00992b1-6f8436b4-c60c01a0.mp3]
 84886454681	feiern	Wir feiern heute meinen Geburtstag.	to celebrate	Today we are celebrating my birthday.		[sound:googletts-f3439cba-7e407706-a007e65b-1ae78def-270f169a.mp3]
 84886454682	fehlen	Herr Müller ist nicht da, er fehlt schon seit drei Tagen.	to be absent	Mr Müller is not here, he’s been absent for three days.		[sound:googletts-97ba5b3f-9723a6f3-5339394b-3eb477f4-9154a2c5.mp3]
