@@ -770,7 +770,7 @@
 84886455222	wie	Wie bitte?	…	Pardon?		[sound:googletts-6017686f-37d48c10-46c3f58a-a54a88a6-862e439d.mp3]
 84886455223	wie	Wie lange bist du schon hier?	how	How long have you been here already?		[sound:googletts-5284e6ea-c0cbab8c-dac440fa-fa0ac354-691b0fc9.mp3]
 84886455224	wiederholen	Können Sie das bitte wiederholen?	to repeat	Can you repeat that, please?		[sound:googletts-362f0036-bc7a85e5-61613d6f-7db2c9e1-296afc2b.mp3]
-84886455225	das Wiederhören	Auf Wiederhören!	…	Goodbye!	NB: used on the telephone	[sound:googletts-91ba5b84-ee59ef63-a8257011-f99f592c-ca253ea7.mp3]
+84886455225	das Wiederhören	Auf Wiederhören!	…	Goodbye!	NB: used on the telephone	[sound:googletts-437031d3-0f9d52c8-291106b4-9b1d04d4-ffb9b99a.mp3]
 84886455226	das Wiedersehen	Auf Wiedersehen!	…	Goodbye!	lit: “until we see each other again”	[sound:googletts-6e025f22-21dfbfe7-31b4487c-5ebfc55e-39af8563.mp3]
 84886455227	wie viel	Wie viel Milch nehmen Sie?	how much	How much milk do you take?		[sound:googletts-326aa04e-64f143a0-f42ac6b6-3c1337b1-6dedb758.mp3]
 84886455228	willkommen	Herzlich willkommen!	…	Welcome!		[sound:googletts-d742cf79-04ff5154-7a19488b-2063c616-27b50a50.mp3]
