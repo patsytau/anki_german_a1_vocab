@@ -46,7 +46,7 @@
 84886454497	sich ausziehen	Ich ziehe mich aus.	to get undressed	I get undressed.		[sound:googletts-4af5eac4-4eaa6e40-ee57c32d-d9d4a7a0-b12a117d.mp3]
 84886454498	das Auto, -s	Er kommt mit dem Auto.	car	He’s coming by car.		[sound:googletts-ac85655a-da6e9e18-a9b6174a-f1f1f2fc-00b92584.mp3]
 84886454499	die Autobahn, -en	Wo geht‘s hier bitte zur Autobahn?	motorway	How do I get to the motorway?		[sound:googletts-fda102bd-8d04d2e6-17da55f6-a19802d1-58ed5e55.mp3]
-84886454500	der Automat	Die Fahrkarten gibt es nur am Automaten.	machine	Tickets are only available from the machines.		[sound:googletts-c0c24885-9b8c11a4-ab7a128b-093fac5b-8a7f038b.mp3]
+84886454500	der Automat	Die Fahrkarten gibt es nur am Automaten.	machine	Tickets are only available from the machine.		[sound:googletts-c0c24885-9b8c11a4-ab7a128b-093fac5b-8a7f038b.mp3]
 84886454501	automatisch	Du musst nichts machen. Das geht automatisch.	automatic	You don’t need to do anything. It's automatic.		[sound:googletts-27ade855-62ee906c-96c336ba-5f1c7799-0ac93a44.mp3]
 84886454502	das Baby, -s	Mein Kind ist noch ein Baby.	baby	My child is still a baby.		[sound:googletts-9a81ba87-90351965-ec888ac4-a88c0b7a-c19b69c0.mp3]
 84886454503	die Bäckerei	Ich geh mal schnell zur Bäckerei.	bakery	I’m just popping to the bakery.		[sound:googletts-40a7cc28-e9a3e940-9e832f97-672f33e4-76103482.mp3]
