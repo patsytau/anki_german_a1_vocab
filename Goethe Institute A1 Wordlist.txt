@@ -717,7 +717,7 @@
 84886455169	der Vater, -ä	Mein Vater ist Arbeiter.	father	My father is a worker.		[sound:googletts-0004adae-959d96ef-6a3e1b76-6868a504-2dfe1b03.mp3]
 84886455170	verboten	Hier ist Rauchen verboten.	forbidden	Smoking is forbidden here.		[sound:googletts-033ec458-9f24991d-8ac7c9ab-48722690-aacba0dc.mp3]
 84886455171	verdienen	Ich verdiene 1.500 Euro im Monat.	to earn	I earn 1,500 euros per month.		[sound:googletts-b10e3d64-a7245d29-3420a403-cf244d7c-63a00487.mp3]
-84886455172	der Verein	Es gibt einen neuen Sportverein in der Stadt.	club	There is a new sports club in the town.		[sound:googletts-b73c1d64-db7b62db-e7263bfd-9a1edc8f-296d8979.mp3]
+84886455172	der Verein	Es gibt einen neuen Sportverein in der Stadt.	club	There is a new sports club in the city.		[sound:googletts-b73c1d64-db7b62db-e7263bfd-9a1edc8f-296d8979.mp3]
 84886455173	verheiratet	Ich bin verheiratet und habe drei Kinder.	married	I am married and have three children.		[sound:googletts-7bf5f00e-1eac1cbb-5332eddf-7c23d681-14690cd8.mp3]
 84886455174	verkaufen	Er verkauft sein altes Auto.	to sell	He is selling his old car.		[sound:googletts-af9b53ed-54f32e0c-cc609cb9-1ae7a843-06da9208.mp3]
 84886455175	der Verkäufer, –	Meine Mutter ist Verkäuferin im Kaufhaus.	salesperson	My mother is a saleswoman in a department store.		[sound:googletts-3c17337f-d40ed23f-515d5216-fb2f2470-be211a63.mp3]
