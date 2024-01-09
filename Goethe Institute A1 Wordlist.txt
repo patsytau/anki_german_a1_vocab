@@ -722,7 +722,7 @@
 84886455174	verkaufen	Er verkauft sein altes Auto.	to sell	He is selling his old car.		[sound:googletts-af9b53ed-54f32e0c-cc609cb9-1ae7a843-06da9208.mp3]
 84886455175	der Verkäufer, –	Meine Mutter ist Verkäuferin im Kaufhaus.	salesperson	My mother is a saleswoman in a department store.		[sound:googletts-3c17337f-d40ed23f-515d5216-fb2f2470-be211a63.mp3]
 84886455176	vermieten	Die Wohnung ist schon vermietet.	to rent out	The flat is already rented out.		[sound:googletts-5c787450-8f6eae72-b4e128fb-867e6c99-0cf687c8.mp3]
-84886455177	der Vermieter	Unser Vermieter heißt Huber. Er wohnt auch hier.	landlord	Out landlord is called Huber. He lives here, too.		[sound:googletts-7513a6ce-a0a8ee7c-5fe42bb7-fcb38298-eccc1274.mp3]
+84886455177	der Vermieter	Unser Vermieter heißt Huber. Er wohnt auch hier.	landlord	Our landlord is called Huber. He lives here, too.		[sound:googletts-7513a6ce-a0a8ee7c-5fe42bb7-fcb38298-eccc1274.mp3]
 84886455178	verstehen	Können Sie mich verstehen?	to understand	Can you understand me?	formal	[sound:googletts-67bf5827-66c9df6d-05031dca-cae135f2-fa07115d.mp3]
 84886455179	der Verwandte, -n	Peter besucht seine Verwandten in Polen.	relative	Peter visits his relatives in Poland.		[sound:googletts-b36e9723-dc731db5-314efe28-72b73e87-5bf78d12.mp3]
 84886455180	viel	Hier regnet es viel.	a lot	It rains a lot here.		[sound:googletts-5cdf83c2-77bb1baf-aeee6f13-356635b9-114034e7.mp3]
