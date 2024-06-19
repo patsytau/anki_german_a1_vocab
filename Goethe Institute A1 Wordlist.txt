@@ -339,7 +339,7 @@
 84886454790	die Halle	Wir treffen uns in Halle B.	hall	We will meet in hall B.		[sound:googletts-1748b953-fa538814-d55bfa3a-aaf0044c-fa5b0a45.mp3]
 84886454791	hallo	Hallo Inge! Wie geht’s?	hello	Hello Inge! How’s it going?		[sound:googletts-bc511182-0554835f-c1c4ed5a-c6ae6c80-a61bcfa3.mp3]
 84886454792	halten	Dieser Zug hält nicht in Rüdesheim.	to stop	This train does not stop in Rüdesheim.		[sound:googletts-e1d7fa29-904b1f8f-65604f6a-270fd862-2bf2f520.mp3]
-84886454793	die Haltestelle	An der nächsten Haltestelle müssen Sie aussteigen.	(public transport) stop	At the next stop you must alight.	formal	[sound:googletts-4af0be4c-2b69f45b-2073a0f9-a29987cd-5f22923c.mp3]
+84886454793	die Haltestelle, -en,	An der nächsten Haltestelle müssen Sie aussteigen.	(public transport) stop	At the next stop you must alight.	formal	[sound:googletts-4af0be4c-2b69f45b-2073a0f9-a29987cd-5f22923c.mp3]
 84886454794	die Hand, -ä, e	Er gibt mir die Hand.	hand	He gives me his hand.		[sound:googletts-a5762e47-346b6ffa-b3b1ac16-6659c0fc-ff2fbd2a.mp3]
 84886454795	das Handy, -s	In der Schule bitte die Handys ausmachen!	mobile telephone	Please turn off your mobile phones in school!		[sound:googletts-f69be403-7b772eeb-59e04690-9783e39c-c525afcb.mp3]
 84886454796	das Haus, -ä, er	In welchem Haus wohnst du?	house / building	Which house do you live in?	informal	[sound:googletts-8c9fd81f-6c56cb51-8ddad1dc-dd20bd92-9ef4bad8.mp3]
