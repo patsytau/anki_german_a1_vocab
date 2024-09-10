@@ -20,7 +20,7 @@ This extra vocabulary is primarily colours, months, days, numbers, units, and ot
 These do not have any audio, as the TTS does not handle the plural notation gracefully.
 The [Advanced Browser](https://ankiweb.net/shared/info/874215009) plugin was invaluable for finding these entries when adding the audio.
 
-The audio was created using the high-quality [Thorsten-Voice](https://github.com/thorstenMueller/Thorsten-Voice]) TTS, which saved me a tremendous amount of work, and saved everyone else from having to listen to my voice :)
+The audio was created using the high-quality [Thorsten-Voice](https://github.com/thorstenMueller/Thorsten-Voice) TTS, which saved me a tremendous amount of work, and saved everyone else from having to listen to my voice :)
 
 Finally, I used the [Add note id](https://ankiweb.net/shared/info/1672832404) plugin to add ids to the notes in case I need to make future corrections.
 
