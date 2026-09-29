@@ -1,5 +1,102 @@
 # Goethe Institute A1 Wordlist
 
+> **This is a fork of [patsytau/anki_german_a1_vocab](https://github.com/patsytau/anki_german_a1_vocab).**
+> All credit for the original deck, translations and audio goes to the original author.
+> This fork adds the missing first page of the word list, fixes a few errors, and adds context hints.
+> See [Changes in this fork](#changes-in-this-fork) below. The original README follows unchanged.
+
+## Changes in this fork
+
+### 1. Added the missing first page (46 new notes)
+
+The original deck starts at *die Ansage*. The official list's first page, *ab* through *der Anrufbeantworter*, was missing
+(reported upstream in [issue #16](https://github.com/patsytau/anki_german_a1_vocab/issues/16)).
+All 46 entries from that page are now included, one note per example sentence, as in the rest of the deck:
+
+*ab, aber, abfahren, die Abfahrt, abgeben, abholen, der Absender, Achtung, die Adresse, all-, allein, also, alt, das Alter,
+an, anbieten, das Angebot, ander-, anfangen, der Anfang, anklicken, ankommen, die Ankunft, ankreuzen, anmachen,
+(sich) anmelden, die Anmeldung, die Anrede, anrufen, der Anruf, der Anrufbeantworter*
+
+- German words and sentences are taken verbatim from the official Goethe PDF. The English translations and notes are new.
+- Audio for these notes is Google TTS (German), because the Thorsten-Voice setup wasn't available. All other audio is unchanged.
+- The new notes are tagged `goethe-page1-added` and placed at the **front** of the new-card queue, since they are core A1 words.
+- They are also added at the top of `Goethe Institute A1 Wordlist.txt`, and their audio files are in `audio/goethe-p1-*.mp3`.
+
+### 2. Corrections
+
+| Word | Before | After |
+|---|---|---|
+| heißen | `ßt das auf Deutsch?` (corrupted) | `Wie heißt das auf Deutsch?` |
+| der Kollege | `ßt die neue Kollegin?` (corrupted) | `Wie heißt die neue Kollegin?` |
+| die Haltestelle | `die Haltestelle, -en,` | `die Haltestelle, -n` |
+| die Hochzeit | marriage | wedding |
+| lieber | to prefer | rather (prefer to): see [issue #11](https://github.com/patsytau/anki_german_a1_vocab/issues/11) |
+| fehlen | *Was fehlt Ihnen?* = "What are you missing?" | "What's the matter with you?" (doctor's question) |
+| vierzig | fourty | forty |
+| die Woche | `die Woche, -e` (a typo copied from the Goethe PDF) | `die Woche, -n` |
+
+Two formal/informal tags were also wrong and are fixed:
+- *Sie ist böse auf mich*: here *Sie* means "she", so it is not formal.
+- *Deine Tasche kannst du dorthin stellen*: this is informal (*du*), not formal.
+
+### 3. Context hints (`en_note`) on ~130 more notes
+
+These hints aim at the mistakes A1 learners make most often:
+
+- **Formal vs informal:** tags added wherever the sentence uses *Sie*, *du* or *ihr* but had no tag.
+- **False friends:**
+  - *bekommen* = to get, not "become"
+  - *ich will* = I want, not "I will"
+  - *das Gift* = poison
+  - *Termin* = appointment
+  - *Prospekt* = brochure
+  - *Hochzeit* = wedding
+  - *selbstständig* usually means "self-employed"
+- **Confusable pairs:**
+  - *kennen / wissen*
+  - *möchte / mögen*
+  - *nach Hause / zu Hause*
+  - *lang / lange*
+  - *legen / stellen*, *liegen / stehen*
+  - *besuchen / besichtigen*
+  - *mieten / vermieten*
+  - *billig / günstig*
+  - *Stunde / Uhr*
+  - *wo / woher / wohin*
+  - *Schüler / Student*, *studieren / lernen*
+  - *Bank* (pl. *Banken*) / *Bank* (pl. *Bänke*)
+- **Grammar traps:**
+  - *muss nicht* = don't have to (not "must not"), and *nicht dürfen* = must not
+  - *Mir ist kalt* (never *Ich bin kalt*)
+  - *Das gefällt mir*: the thing is the subject
+  - *seit* + present tense
+  - *vor* = ago
+  - *das Mädchen* is neuter
+  - *dich/dir*, *ihn/ihm* cases
+  - *zum/zur*, *ins*, *am*
+  - adjectival nouns (*ein Bekannter / der Bekannte*)
+  - words that are always plural (*Möbel*, *Leute*)
+- **Female forms** where the example sentence uses one (*Ärztin, Chefin, Beamtin, Lehrerin, Verkäuferin*).
+- **Numbers and time:**
+  - *halb drei* = 2:30, not 3:30
+  - *Viertel vor/nach*
+  - *einundzwanzig* puts the units first
+  - years before 2000 are said in hundreds
+
+### 4. Removed duplicates
+
+These notes duplicated other notes and had no example sentence, so they were removed:
+- the second *die Stunde* in the extra vocabulary (it is already in the main list with a sentence)
+- the second *der Tag* in the extra vocabulary
+
+### Updating from the original deck
+
+The package keeps the original note type and note IDs. If you already use the original deck, importing this `.apkg`
+updates your existing notes in place and adds the new ones. Your review progress is kept.
+Anki doesn't delete notes on import, so the two removed duplicates stay in your collection unless you delete them yourself.
+
+---
+
 ## About this Deck
 
 This is the Goethe Institute's A1 wordlist (including example sentences), translated into English, using double-sided cards and machine-generated audio.
