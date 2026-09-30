@@ -13,3 +13,33 @@ hr#answer { border: 0; border-top: 1px solid #e5e1d8; margin: 16px 0; }
 .nightMode.card small, .night_mode .card small,
 .nightMode.card a.hint, .night_mode .card a.hint { color: #f5c77e; }
 .nightMode hr#answer, .night_mode hr#answer { border-top-color: #3a3b3f; }
+
+/* ---- verb tip box ---- */
+.vbox { display: inline-block; text-align: left; margin-top: 10px; padding: 10px 14px; border-radius: 12px;
+        background: #f5f3ff; border: 1px solid #e4e0f7; color: #1f2328; font-size: 15px; line-height: 1.5; max-width: 520px; }
+.vhead { font-size: 17px; margin-bottom: 3px; }
+.vforms, .vnote { color: #374151; }
+.vnote { margin-top: 5px; }
+.sep { color: #0d9488; font-weight: 700; }
+.aux-sein { color: #ea580c; font-weight: 700; }
+.aux-hat { color: #6b7280; }
+.b { display: inline-block; font-size: 11.5px; font-weight: 600; padding: 1px 8px; border-radius: 999px; margin: 2px 3px 2px 0; vertical-align: middle; }
+.b-sep { background: #ccfbf1; color: #115e59; }   .b-insep { background: #e0e7ff; color: #3730a3; }
+.b-irr { background: #fee2e2; color: #991b1b; }   .b-sein  { background: #ffedd5; color: #9a3412; }
+.b-dat { background: #f3e8ff; color: #6b21a8; }   .b-akk   { background: #dbeafe; color: #1e40af; }
+.b-refl { background: #dcfce7; color: #166534; }  .b-modal { background: #fef9c3; color: #854d0e; }
+.b-ff { background: #ffe4e6; color: #9f1239; }
+.nightMode .vbox, .night_mode .vbox { background: #25223a; border-color: #3b3654; color: #e8e6e3; }
+.nightMode .vforms, .night_mode .vforms, .nightMode .vnote, .night_mode .vnote { color: #c9cdd2; }
+.nightMode .sep, .night_mode .sep { color: #2dd4bf; }
+.nightMode .aux-sein, .night_mode .aux-sein { color: #fb923c; }
+.nightMode .aux-hat, .night_mode .aux-hat { color: #9aa0a6; }
+.nightMode .b-sep, .night_mode .b-sep { background: #134e4a; color: #99f6e4; }
+.nightMode .b-insep, .night_mode .b-insep { background: #312e81; color: #c7d2fe; }
+.nightMode .b-irr, .night_mode .b-irr { background: #7f1d1d; color: #fecaca; }
+.nightMode .b-sein, .night_mode .b-sein { background: #7c2d12; color: #fed7aa; }
+.nightMode .b-dat, .night_mode .b-dat { background: #581c87; color: #e9d5ff; }
+.nightMode .b-akk, .night_mode .b-akk { background: #1e3a8a; color: #bfdbfe; }
+.nightMode .b-refl, .night_mode .b-refl { background: #14532d; color: #bbf7d0; }
+.nightMode .b-modal, .night_mode .b-modal { background: #713f12; color: #fef08a; }
+.nightMode .b-ff, .night_mode .b-ff { background: #881337; color: #fecdd3; }

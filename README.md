@@ -164,6 +164,43 @@ These notes duplicated other notes and had no example sentence, so they were rem
 
 If you only want German → English, suspend the reverse cards: in the Browser, search `card:2`, select all, then **Cards → Toggle Suspend**.
 
+### 6. Colour-coded verb tips (159 verbs, 201 notes)
+
+Every verb note now has a tip box in its `en_note`, shown on the answer side (and behind the hint link on English → German cards):
+
+- **Forms:** present (*er*), Präteritum and Perfekt, e.g. *er gibt **ab** · gab **ab** · hat **ab**gegeben*. The separable prefix is highlighted, and so is *ist* when the Perfekt uses *sein*.
+- **Coloured labels:**
+  - separable / inseparable
+  - irregular, or the vowel change itself (*e→i*, *a→ä*)
+  - Perfekt + sein
+  - + dative / + accusative
+  - reflexive
+  - modal verb
+  - false friend
+- **Prefixes explained:**
+  - *ab-* = away/off (*abfahren, abgeben, abholen*)
+  - *an-* = on/at (*ankommen, anmachen, anrufen*)
+  - *auf-* = up (*aufstehen*)
+  - *aus-* = out/off (*aussteigen, ausmachen*)
+  - *ein-* = in (*einsteigen, einladen*)
+  - *mit-* = along (*mitkommen, mitnehmen*)
+  - *um-* = change (*umziehen*)
+  - *be-/ver-/er-/ent-/ge-/über-/unter-* are inseparable and take no *ge-*
+- **Verbs that get mixed up:**
+  - *einsteigen / aussteigen / umsteigen*
+  - *anziehen / ausziehen / umziehen*
+  - *anmachen / ausmachen*
+  - *holen / abholen / bringen*
+  - *kaufen / einkaufen / verkaufen*
+  - *mieten / vermieten*
+  - *drucken / drücken*
+  - *hören / aufhören / gehören*
+  - *fallen / gefallen*
+  - *fragen / bitten*
+  - *sagen / erzählen*
+
+The box styles (including night mode) are in the note type's CSS and in `style.css`.
+
 ### Updating an existing copy of the deck
 
 The package keeps the original note type and note IDs. If you already use an earlier version of this deck, import this `.apkg`
