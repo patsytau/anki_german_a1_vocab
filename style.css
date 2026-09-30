@@ -43,3 +43,33 @@ hr#answer { border: 0; border-top: 1px solid #e5e1d8; margin: 16px 0; }
 .nightMode .b-refl, .night_mode .b-refl { background: #14532d; color: #bbf7d0; }
 .nightMode .b-modal, .night_mode .b-modal { background: #713f12; color: #fef08a; }
 .nightMode .b-ff, .night_mode .b-ff { background: #881337; color: #fecdd3; }
+
+/* ---- noun tip box ---- */
+.nbox { display: inline-block; text-align: left; margin-top: 10px; padding: 10px 14px; border-radius: 12px;
+        background: #f8fafc; border: 1px solid #e2e8f0; border-left-width: 5px; color: #1f2328; font-size: 15px; line-height: 1.55; max-width: 520px; }
+.nbox.n-der { border-left-color: #3b82f6; } .nbox.n-die { border-left-color: #ef4444; }
+.nbox.n-das { border-left-color: #22c55e; } .nbox.n-pl, .nbox.n-derdie { border-left-color: #8b5cf6; }
+.nhead { font-size: 17px; }
+.nplural { font-size: 15px; color: #374151; } .nplural.none { color: #9ca3af; }
+.nbadges { margin-top: 3px; }
+.g { font-weight: 700; padding: 0 6px; border-radius: 6px; margin-right: 2px; }
+.g-der { background: #dbeafe; color: #1d4ed8; } .g-die { background: #fee2e2; color: #b91c1c; }
+.g-das { background: #dcfce7; color: #15803d; } .g-pl { background: #ede9fe; color: #6d28d9; }
+.b-rule { background: #e2e8f0; color: #334155; } .b-nn { background: #fef3c7; color: #92400e; }
+.b-adj { background: #ecfccb; color: #3f6212; } .b-fem { background: #fce7f3; color: #9d174d; }
+.b-plonly { background: #ede9fe; color: #5b21b6; }
+.nightMode .nbox, .night_mode .nbox { background: #1f2430; border-color: #343b4a; color: #e8e6e3; }
+.nightMode .nbox.n-der, .night_mode .nbox.n-der { border-left-color: #60a5fa; }
+.nightMode .nbox.n-die, .night_mode .nbox.n-die { border-left-color: #f87171; }
+.nightMode .nbox.n-das, .night_mode .nbox.n-das { border-left-color: #4ade80; }
+.nightMode .nbox.n-pl, .night_mode .nbox.n-pl, .nightMode .nbox.n-derdie, .night_mode .nbox.n-derdie { border-left-color: #a78bfa; }
+.nightMode .nplural, .night_mode .nplural { color: #c9cdd2; }
+.nightMode .g-der, .night_mode .g-der { background: #1e3a8a; color: #bfdbfe; }
+.nightMode .g-die, .night_mode .g-die { background: #7f1d1d; color: #fecaca; }
+.nightMode .g-das, .night_mode .g-das { background: #14532d; color: #bbf7d0; }
+.nightMode .g-pl, .night_mode .g-pl { background: #4c1d95; color: #ddd6fe; }
+.nightMode .b-rule, .night_mode .b-rule { background: #334155; color: #e2e8f0; }
+.nightMode .b-nn, .night_mode .b-nn { background: #78350f; color: #fde68a; }
+.nightMode .b-adj, .night_mode .b-adj { background: #365314; color: #d9f99d; }
+.nightMode .b-fem, .night_mode .b-fem { background: #831843; color: #fbcfe8; }
+.nightMode .b-plonly, .night_mode .b-plonly { background: #4c1d95; color: #ddd6fe; }

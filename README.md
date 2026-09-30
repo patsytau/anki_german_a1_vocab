@@ -201,6 +201,34 @@ Every verb note now has a tip box in its `en_note`, shown on the answer side (an
 
 The box styles (including night mode) are in the note type's CSS and in `style.css`.
 
+### 7. Colour-coded noun tips (378 nouns, 411 notes)
+
+Every noun note now has a tip box too. Its left edge takes the colour of the gender:
+- **Gender:** <b>der</b> is blue, <b>die</b> is red, <b>das</b> is green, and plural-only nouns are purple.
+- **The plural spelled out:** *Pl. die Äpfel*, or "no plural" / "plural only".
+  - The plural is included even where the Goethe list leaves it out.
+  - Both plurals are shown where they differ in meaning (*Banken / Bänke*, *Wörter / Worte*).
+- **Gender rules as labels:**
+  - *-ung / -heit / -keit / -ion / -ei → die*
+  - *-e → usually die*
+  - *-chen / -um / -ment / -nis → das*
+  - *Ge- → often das*
+  - *verb as noun → das*
+  - *time words and compass points → der*
+  - *compound: the last word decides the gender*
+  - *exception: -e but der/das* (e.g. *das Auge*)
+- **Special labels:**
+  - **n-noun**, with its forms (*den / dem / des Jungen*, *den Herrn*)
+  - **adjective noun** (*ein Bekannter / der Bekannte*)
+  - **false friend** (*Handy, Prospekt, Termin, Geschenk, Hochzeit*)
+  - the **♀ female form** (*die Ärztin, die Lehrerin, die Kollegin …*)
+- **Short notes:**
+  - how compounds break down (*Bahn + Hof → der Bahnhof*, *Woche + Ende → das Wochenende*)
+  - look-alikes (*der See* lake / *die See* sea, *der Reis* rice / *die Reise* trip, *das Café / der Kaffee*)
+  - always-singular and always-plural nouns (*Gemüse, Obst, Gepäck / Eltern, Leute, Möbel*)
+
+The styles, including night mode, are in the note type's CSS and in `style.css`.
+
 ### Updating an existing copy of the deck
 
 The package keeps the original note type and note IDs. If you already use an earlier version of this deck, import this `.apkg`
