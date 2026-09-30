@@ -1,0 +1,15 @@
+.card {
+  font-family: "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif;
+  font-size: 20px; line-height: 1.45; text-align: center;
+  color: #1f2328; background-color: #fbfaf7;
+  max-width: 600px; margin: 0 auto; padding: 16px;
+}
+.card i { color: #4b5563; }
+.card small { color: #92400e; font-size: 15px; }
+.card a.hint { color: #92400e; font-size: 15px; }
+hr#answer { border: 0; border-top: 1px solid #e5e1d8; margin: 16px 0; }
+.nightMode.card, .night_mode .card { color: #e8e6e3; background-color: #1e1f22; }
+.nightMode.card i, .night_mode .card i { color: #b8bcc2; }
+.nightMode.card small, .night_mode .card small,
+.nightMode.card a.hint, .night_mode .card a.hint { color: #f5c77e; }
+.nightMode hr#answer, .night_mode hr#answer { border-top-color: #3a3b3f; }

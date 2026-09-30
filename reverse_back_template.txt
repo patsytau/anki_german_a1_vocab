@@ -1,0 +1,18 @@
+{{en_word}}
+{{#en_sentence}}
+<br><br>
+<i>{{en_sentence}}</i>
+{{/en_sentence}}
+{{#en_note}}
+<br><br>
+<small>{{en_note}}</small>
+{{/en_note}}
+
+<hr id=answer>
+
+{{de_word}}
+{{#de_sentence}}
+<br><br>
+<i>{{de_sentence}}</i>
+{{/de_sentence}}
+{{de_tts_audio}}
