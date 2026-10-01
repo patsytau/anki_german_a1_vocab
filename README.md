@@ -248,6 +248,43 @@ Wrong, unnatural or outdated example sentences were corrected. The six changed G
 
 *das Fax* and *die CD* stay, because they are on the official list. Each now has a note saying the word is dated (today usually an e-mail, or a playlist/streaming).
 
+### 9. Full A1 audit (all notes re-checked)
+
+Every note was re-read for grammar, spelling, natural modern usage, register, translation accuracy and missing hints.
+Correct material was left alone. Sentences that are correct but a bit stiff were **kept**, and got a "more natural:" hint instead of being rewritten.
+
+- **English translations fixed (55 notes)**, including several that taught the wrong meaning:
+  - *Heute Nacht war das Licht an* = **last night**, not "tonight"
+  - *ein paar Brote* = **sandwiches**, not "bread rolls"
+  - *selbstständig* = **self-employed**
+  - *bei Frankfurt* = **near** Frankfurt
+  - *Mir ist schlecht* = **I feel sick**
+  - *günstig* = **good value**, not "cheap"
+  - *Er gibt mir die Hand* = **he shakes my hand**
+  - *Guten Tag* = **Hello**, not "Good day"
+  - *aussteigen* = **get off**, not "alight"
+- **Telling apart cards with the same English:** *der Morgen* "(early) morning" vs *der Vormittag* "late morning (about 9–12)", and *Ansage* vs *Durchsage* ("announcement over a loudspeaker").
+- **Wrong hints corrected:**
+  - *Sonnabend* is **regional** (northern and eastern Germany, per Duden), not "outmoded"
+  - *liegen* is used for people too
+  - the phone example *"Hier ist 06131-553221…"* is now marked **dated** (today people answer with their name)
+- **New hints:**
+  - *eine Milliarde* = a billion, *eine Billion* = a trillion
+  - *erster Stock* = UK first floor / US second floor
+  - *Urlaub* vs *Ferien*
+  - *die Jeans* is singular
+  - *ein Pfund* = 500 g (still used at markets)
+  - *die Mailbox* on mobiles
+  - regional kiosk words (*Späti, Büdchen*)
+  - *Wollen Sie…?* vs *Möchten Sie…?*
+  - *dorther* is rare
+  - *Disco* is dated (today: *Club*)
+  - three missing "informal" tags
+- **German punctuation fixed:** *Ein Pfund Äpfel**,** bitte.* · *Kaufst du … bei der Post**?*** · *Bitte schließen Sie die Tür.* · *geht's*. The three sentences whose text changed got new audio, and their old audio files were removed.
+- **Missing Goethe vocabulary added (9 notes):** the "Länder / Nationalitäten" and "Währungen" groups from the official list's opening pages were missing. Added with sentences, audio (Google TTS) and hints, tagged `goethe-inventory-added`:
+  - *Deutschland, der/die Deutsche, deutsch, Europa, der Europäer, europäisch, der Euro, der Cent*
+  - *die Türkei*, the list's example of a country with an article
+
 ### Updating an existing copy of the deck
 
 The package keeps the original note type and note IDs. If you already use an earlier version of this deck, import this `.apkg`
