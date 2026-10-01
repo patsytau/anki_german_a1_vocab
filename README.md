@@ -229,6 +229,25 @@ Every noun note now has a tip box too. Its left edge takes the colour of the gen
 
 The styles, including night mode, are in the note type's CSS and in `style.css`.
 
+### 8. Example sentence fixes
+
+Wrong, unnatural or outdated example sentences were corrected. The six changed German sentences have new audio (Google TTS, German), and their old audio files were removed.
+
+| Word | Before | After |
+|---|---|---|
+| der Partner | *Er **is** mein Partner.* | *Er **ist** mein Partner.* |
+| die Hochzeit | ***Zur** dieser Hochzeit kommen …* | ***Zu** dieser Hochzeit kommen …* |
+| die Disco | *Heute **abend** gehen wir …* | *Heute **Abend** gehen wir …* (+ note: young people now mostly say *Club*) |
+| hoch | *Der Mount Everest ist 8.880 Meter hoch.* | *… 8.849 Meter hoch.* (the official height since 2020) |
+| der Lkw | *Dieser Lastkraftwagen ist sehr groß.* | *Der Lkw steht vor unserem Haus.* The card teaches *Lkw*, and nobody says *Lastkraftwagen* aloud ([issue #12](https://github.com/patsytau/anki_german_a1_vocab/issues/12)) |
+| tun | *Was tut Ihr Mann?* | *Was tust du da?* The old sentence sounds odd; people ask *Was macht Ihr Mann beruflich?* |
+| fragen | *Er möchte Sie etwas fragen. Wann kommen Sie?* | *Er möchte Sie etwas fragen.* (the second sentence was unrelated) |
+| die Bank | "He’s sits in the park…" | "He sits in the park…" |
+| die Eltern | "…live in spain." | "…live in Spain." |
+| klein | "Eltwille is a small town…" | "Eltville is a small town…" |
+
+*das Fax* and *die CD* stay, because they are on the official list. Each now has a note saying the word is dated (today usually an e-mail, or a playlist/streaming).
+
 ### Updating an existing copy of the deck
 
 The package keeps the original note type and note IDs. If you already use an earlier version of this deck, import this `.apkg`
