@@ -285,6 +285,41 @@ Correct material was left alone. Sentences that are correct but a bit stiff were
   - *Deutschland, der/die Deutsche, deutsch, Europa, der Europäer, europäisch, der Euro, der Cent*
   - *die Türkei*, the list's example of a country with an article
 
+### 10. Learner-usability pass (retrieval, gender, plurals, tags, survival German)
+
+No German sentences were rewritten and no notes were removed. Only English prompts, hints and tags changed.
+
+- **One answer per English → German prompt.** 87 English prompts could be answered by more than one German word.
+  - **Noun prompts start with "the"** (*the help* → die Hilfe vs *to help* → helfen). This also makes you produce **der/die/das** before you see the answer.
+  - **True twins got a short cue:**
+    - *to know (a person/place)* vs *(a fact)*
+    - *to put (lay flat)* vs *(upright)*
+    - *to visit (a person)* vs *(a sight)*
+    - *from (origin)* vs *(coming from a place)*
+    - *him (accusative)* vs *(to) him (dative)*
+    - *the menu (short word)* vs *(full word)*
+    - …and similar
+- **Plural practice:** 38 high-value nouns with irregular plurals ask for the plural in the prompt, marked **"(+ pl.)"** (*Mann, Kind, Apfel, Stadt, Buch, Haus, Hand, Zug, Nacht, Bank → Banken / Bänke…*).
+- **Confusion pairs:** new hints for *machen / tun* and *sagen / sprechen*. The other common A1 pairs were already covered.
+- **18 targeted pronunciation tips**, starting with "sound:":
+  - the soft *ich* sound vs the throaty *ach* sound
+  - *ei* vs *ie* (*zwei / vier*)
+  - *ü* and *ö*
+  - *z = ts*, *w = v*, *v = f*
+  - *sp / st* at the start of a word
+  - a final *-g / -d* that sounds like *k / t*
+  - *-ig*, *eu*, and the German *r*
+- **Tags** for filtered decks and custom study:
+  - `A1::core` (the most useful ~950), `A1::Goethe`
+  - `A1::grammar`, `A1::confusion`, `A1::false_friend`
+  - `A1::formal`, `A1::informal`
+  - `A1::dated`, `A1::regional`, `A1::rare`
+  - `A1::pronunciation`, `A1::survival`
+- **Survival German (7 notes, not Goethe vocabulary)**, tagged `A1::survival` and `survival-added`, with audio:
+  - *Ich verstehe das nicht.* · *Keine Ahnung.* · *Kein Problem!* · *Ich hätte gern …*
+  - *Ich suche …* · *Sprechen Sie Englisch?* · *Ich brauche Hilfe.*
+- **Guten Tag** is now translated "Good day / Hello".
+
 ### Updating an existing copy of the deck
 
 The package keeps the original note type and note IDs. If you already use an earlier version of this deck, import this `.apkg`
